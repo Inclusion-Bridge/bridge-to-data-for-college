@@ -4,6 +4,6 @@ week:
 date: 2024-01-01
 ---
 
-- **Data Fundamentals starts in January 24th!** .
+- **Data Fundamentals starts January 24th!** .
 
 {: .fs-5 }
