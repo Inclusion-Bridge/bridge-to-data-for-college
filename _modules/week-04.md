@@ -22,6 +22,4 @@ Lecture
 : _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} [Homework 04](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Fmaterials%2Fhw04%2Fstudent%2Fhw04.ipynb)
 
-Project Work
-: **Project**{: .label .label-project} [Project 1: World Population and Poverty]()
 
