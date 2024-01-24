@@ -12,10 +12,10 @@ description: >-
 
 > **A**: If you have not already done so, you must first complete steps A & B below. If you have completed Steps A & B already, follow steps C-E to submit your completed notebook.
 
-> > A. Create InclusionBridge College Advantage folder in your google drive
+> > A. Create Bridge to Data folder in your google drive
 
 > > > - Click on the (+) and select new folder
-> > > - Name folder : CA23 - name of school - your first initial + last name(Example: CA23-IB-gchristie)
+> > > - Name folder : BridgetoData - Mercy - Your first name and last initial
 
 > > B. Share folder with the Data Chief: [taiwo@inclusionbridge.org](taiwo@inclusionbridge.org) with edits permission
 

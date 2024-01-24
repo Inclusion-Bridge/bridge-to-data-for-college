@@ -21,10 +21,7 @@ InclusionBridge, Bridge to Data Fundamentals (Mercy University) 2024
 
 **Acknowledgements**
 
-This course is adopted from Data 8, “The Foundations of Data Science” course taught to first-year students at UC Berkeley.
-All materials for the course, including the textbook and assignments, are available for free online under a Creative Commons license.
-Textbook: [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/) is a free online textbook that includes interactive Jupyter notebooks and public data sets for all examples.
-Course Materials: The Embedded Demo, Lab and Homework Notebooks as well as linked references all come from publicly available materials used in the course during the [Spring 2020 semester at UC Berkeley](http://www.data8.org/sp20/) as well as materials used in the self-paced [Data 8X course on EdX](https://github.com/data-8/materials-x19).
+This course is based on Data 8, titled "The Foundations of Data Science," a course taught to first-year students at UC Berkeley. All course materials, including the textbook and assignments, are provided free of charge online under a Creative Commons license. The textbook, "[Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)," is an online resource featuring Jupyter notebooks and publicly accessible data sets used in all the examples. The course materials comprise Embedded Demo, Lab, and Homework Notebooks, as well as references, all sourced from the public [Data8 repository](https://github.com/data-8). Students are encouraged to visit the [official Data8 website](https://www.data8.org/) for additional resources, including complete lecture videos and PowerPoint presentations.
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
